@@ -1,0 +1,3 @@
+[submodule "src/android/textures"]
+	path = src/android/textures
+	url = https://github.com/Esteemed-Innovation/Flaxbeards-Steam-Power-Resources.git
