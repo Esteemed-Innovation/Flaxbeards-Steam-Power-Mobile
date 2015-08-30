@@ -469,15 +469,15 @@ function openCrucibleMenu() {
                 selectPTv.setTextSize(25);
 
                 var descr = new android.widget.TextView(ctx1);
-                descr.setText("Ive discovered the perfect metal for my steam powered machines: brass. In order to make it you will need a Crucible , an Ingot Mold, some iron and some gold. So tap with either iron or gold on the crucible then tap it again with the other metal that you haven't used before, then, take you mold and tap the crucible. You will now have a Brass Ingot.")
+                descr.setText("I've discovered the perfect metal for my steam powered machines: brass. In order to make it you will need a Crucible, an Ingot Mold, some Iron and some Gold. So tap with either Iron or Gold on the Crucible then tap it again with the other metal that you haven't used before, then, take your Mold and tap the Crucible. You will now have a Brass Ingot.")
                 descr.setTextSize(20);
 
                 var daisy = new android.widget.TextView(ctx1);
-                daisy.setText("Crucible= 7 bricks in a stone cutter")
+                daisy.setText("Crucible= 7 Bricks in a Stone Cutter")
                 daisy.setTextSize(25);
 
                 var water = new android.widget.TextView(ctx1);
-                water.setText("Ingot Mold= 8 bricks and 1 iron ingot in a crafting table")
+                water.setText("Ingot Mold= 8 Bricks and 1 Iron Ingot in a Crafting Table")
                 water.setTextSize(25);
 
                 var closePBtn = new android.widget.Button(ctx1);
@@ -537,7 +537,7 @@ function openBoilerMenu() {
                 selectLTv.setTextSize(25);
 
                 var descr1 = new android.widget.TextView(ctx2);
-                descr1.setText("And now the main step to my steam revolution. The Steam Boiler, crafted in a stone cutter with 8 Brass Ingots and 1 Furnace, is the main way to get steam. To make it work just place it above a water source and tap it with a coal. The machine is building up steam.")
+                descr1.setText("And now the main step to my steam revolution. The Steam Boiler, crafted in a Stone Cutter with 8 Brass Ingots and 1 Furnace, is the main way to get Steam. To make it work just place it above a Water source and tap it with a piece of Coal. The machine is building up steam.")
                 descr1.setTextSize(20);
 
                 var closeLBtn = new android.widget.Button(ctx2);
@@ -595,7 +595,7 @@ function openHeaterMenu() {
                 selectPRTv.setTextSize(25);
 
                 var descr2 = new android.widget.TextView(ctx3);
-                descr2.setText("Ive discovered a way to power furnaces with steam! Using a Steam Heater, this block crafted in a stone cutter from 4 Brass Ingots and 3 Copper Ingots, wich placed near a functional Steam Boiler, tapped, will power all the furnaces around him. ")
+                descr2.setText("I've discovered a way to power furnaces with steam! Using a Steam Heater, this block crafted in a Stone Cutter from 4 Brass Ingots and 3 Copper Ingots, which placed near a functional Steam Boiler, tapped, will power all the Furnaces around it. ")
                 descr2.setTextSize(20);
 
                 var closePRBtn = new android.widget.Button(ctx3);
@@ -653,7 +653,7 @@ function openFillerMenu() {
                 selectTTv.setTextSize(25);
 
                 var descr3 = new android.widget.TextView(ctx4);
-                descr3.setText("Ive managed to find a way to imput steam into my steam tools and I came out with the Steam Filler, crafted n a stone cutter from 3 Brass Ingots and 4 Cobblestone, this block if placed on the top of a functional Steam Boiler will be the recharge station for all portable steam tools.")
+                descr3.setText("I've managed to find a way to input steam into my steam tools and I came out with the Steam Filler, crafted n a Stone Cutter from 3 Brass Ingots and 4 Cobblestone, this block if placed on the top of a functional Steam Boiler will be the recharge station for all portable steam tools.")
                 descr3.setTextSize(20);
 
                 var closeTransportBtn = new android.widget.Button(ctx4);
@@ -718,7 +718,7 @@ function openToolsMenu() {
 
 //@kingbudderjr: Please explain these var names.
                 var orechid = new android.widget.TextView(ctx5);
-                orechid.setText("Steam Drill= crafted in a crafting table from 4 Brass Ingots, 3 Iron Ingots and 2 Copper Ingots, this item if charged can mine pickaxe type blocks")
+                orechid.setText("Steam Drill= crafted in a Crafting Table from 4 Brass Ingots, 3 Iron Ingots and 2 Copper Ingots, this item if charged can mine pickaxe type blocks")
                 orechid.setTextSize(25);
 
                 var agricarnation = new android.widget.TextView(ctx5);
